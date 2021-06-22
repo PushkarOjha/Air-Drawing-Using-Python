@@ -1,0 +1,2 @@
+# Air-Drawing-Using-Python
+production of air drawing using python which is simple computer vision-based project which tracks a target and uses the said target to draw on air. The motion of the target is captured by a webcam. The video from the webcam is processed by the computer to get an AR like image overlay on top of the live footage. This project makes use of a web cam to track the motion of the target.
